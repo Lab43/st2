@@ -1,0 +1,15 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Auto Semi-Colon",
+		"ColorPicker",
+		"Djaneiro",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}
